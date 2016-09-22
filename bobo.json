@@ -1,0 +1,17 @@
+{
+"CHING連續劇":"http://edge1.everyon.tv/etv1sb/phd783/playlist.m3u8",
+"新唐人電視":"http://123.108.164.71/etv2/phd1058/playlist.m3u8",
+"新唐人亞太":"http://123.108.164.71/etv2/phd926/playlist.m3u8",
+"耀才財經":"http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+"NHK國際":"http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8",
+"韓19時尚生活":"http://123.108.164.71/etv2sb/phd43/playlist.m3u8",
+"音樂-CityTV":"http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8",
+"音乐-Hit TV":"http://kissfm.en-directo.com/iphone/index_multirate.m3u8",
+"音樂-NRJ Hits":"http://5.196.138.6:1935/live/nrjbelgique_360p/playlist.m3u8",
+"音樂-ReTV Jamaica":"http://fms.105.net:1935/live/105Test1/playlist.m3u8",
+"歐美電話美女01-bs24":"http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8",
+"Private":"http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8",
+"经典美剧":"http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+"律政医务美剧":"http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+"青春偶像美剧":"http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+}
